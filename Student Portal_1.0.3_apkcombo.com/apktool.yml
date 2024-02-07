@@ -1,0 +1,40 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Student Portal_1.0.3_apkcombo.com.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.exifinterface_exifinterface.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager_viewpager.version
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '20'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  androidsupportmultidexversion.txt: '0'
+  stamp-cert-sha256: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0-dirty
+versionInfo:
+  versionCode: '4'
+  versionName: 1.0.3
