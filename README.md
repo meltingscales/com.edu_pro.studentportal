@@ -1,3 +1,16 @@
+## Findings summary
+
+### gitleaks
+
+Nothing found.
+
+### apkurlgrep
+
+Nothing found.
+
+### Snyk SAST
+
+Nothing found.
 
 ## Commands
 
