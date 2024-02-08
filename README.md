@@ -6,5 +6,5 @@
 
 apktool d Student\ Portal_1.0.3_apkcombo.com.apk
 
-gitleaks detect > gitleaks.txt 2>&1
+gitleaks detect --report-path gitleaks.json
 ```
