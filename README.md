@@ -10,7 +10,7 @@ Nothing found.
 
 ### Snyk SAST
 
-Nothing found.
+Need to run jadx-gui.
 
 ## Commands
 
